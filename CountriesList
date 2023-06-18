@@ -1,1 +1,11 @@
 #Create a list of Countries with the letter O 
+
+Countries=["Zimbabwe","Hollard","Mozambique","Canada","Portugal"]
+CLetterO=[]
+
+for x in Countries:
+    if "o" in x:
+        print(x)
+        
+        
+        
