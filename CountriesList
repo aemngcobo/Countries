@@ -5,7 +5,10 @@ CLetterO=[]
 
 for x in Countries:
     if "o" in x:
-        print(x)
+        CLetterO.append(x)
         
+print(CLetterO)
+        
+      
         
         
